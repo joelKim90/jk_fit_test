@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fispan.bills.tests.GetAllBillsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-20T08:21:17" hostname="Joels-MacBook-Air.local" time="0.079">
+  <properties/>
+  <testcase name="getAllBillsTest" classname="com.fispan.bills.tests.GetAllBillsTest" time="0.079"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
